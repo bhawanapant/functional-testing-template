@@ -2,3 +2,6 @@
 target/
 .idea/
 *.iml
+.gitignore
+rest-api-template.iml
+target/generated-test-sources/
